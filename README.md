@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Sonny and Mariel high fiving.](introbanner.png)
+![Sonny and Mariel high fiving.](profile.png)
 
 ---
